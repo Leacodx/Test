@@ -1,0 +1,23 @@
+{
+  "name": "testpractice",
+  "version": "1.0.0",
+  "description": "testing",
+  "homepage": "https://github.com/Leacodx/Test#readme",
+  "bugs": {
+    "url": "https://github.com/Leacodx/Test/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leacodx/Test.git"
+  },
+  "license": "ISC",
+  "author": "lea",
+  "type": "module",
+  "main": "server.mjs]",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
